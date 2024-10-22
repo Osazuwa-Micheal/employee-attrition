@@ -1,5 +1,6 @@
 # Employee Attrition Analysis
 
+![Employee Attrition report](https://github.com/Osazuwa-Micheal/employee-attrition/HR Analysis.pdf)
 
 ## Objective:
 The primary objective of this project was to identify the key predictors of employee attrition, allowing HR departments to craft strategies for improving employee retention. By leveraging data analytics and machine learning, we aimed to reveal the factors most strongly associated with employees leaving the company.
