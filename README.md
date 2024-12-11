@@ -39,6 +39,8 @@ The primary objective of this project was to identify the key predictors of empl
 ## Conclusion:
 Through this analysis, we identified significant factors influencing employee attrition, such as **overtime**, **job satisfaction**, **work-life balance**, and **monthly income**. These insights can guide HR departments in taking proactive measures to retain employees, such as improving work-life balance, reducing excessive overtime, and ensuring competitive salaries.
 
+*Detailed Report (PDF):** [Download the Report](Employee_attrition_file.pdf)
+
 ---
 
 ## Tools Used:
